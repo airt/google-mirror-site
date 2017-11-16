@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "google-mirror-site",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.0",
+    "koa-proxies": "^0.6.0"
+  }
+}
